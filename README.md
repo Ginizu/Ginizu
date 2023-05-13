@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Java
 
-<div>
+<div align="center">
  <a href="https://github.com/Ginizu">
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=outrun"/>
  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginizu&layout=compact&langs_count=16&theme=outrun">
@@ -27,4 +27,3 @@
   
 </div>
  
- ![Snake animation](https://github.com/Ginizu/Ginuzu/output/github-contribution-grid-snake.svg)
