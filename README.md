@@ -5,7 +5,7 @@
 <div>
  <a href="https://github.com/Ginizu">
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=outrun"/>
- <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginizu&layout=compact&langs_count=16&theme=outrun">
+ <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginizu&layout=compact&langs_count=16&theme=outrun">
 </div>
 
 
