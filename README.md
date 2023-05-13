@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá, me chamo Giovanna! 👋
 
 - 🌱 Estudando Java
 
