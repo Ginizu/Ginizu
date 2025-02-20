@@ -4,8 +4,8 @@
 
 <div align="center">
  <a href="https://github.com/Ginizu">
- <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=outrun"/>
- <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginizu&layout=compact&langs_count=16&theme=outrun">
+ <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=ocean_dark"/>
+ <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginizu&layout=compact&show_icons=true&theme=ocean_dark"/>
 </div>
 
 
