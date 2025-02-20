@@ -1,6 +1,6 @@
 ### Olá, me chamo Giovanna! 👋
 
-- 🌱 Estudando Java
+- 🌱 Sempre em frente. 
 
 <div align="center">
  <a href="https://github.com/Ginizu">
