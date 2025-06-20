@@ -4,10 +4,10 @@
 
 <div>
 <a href="https://github.com/Ginizu/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/Ginizu/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ginizu&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ginizu&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
 </div>
 
