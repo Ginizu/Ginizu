@@ -3,9 +3,12 @@
 - 🌱 Sempre em frente. 
 
 <div align="center">
- <a href="https://github.com/Ginizu">
- <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=ocean_dark"/>
- <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginizu&layout=compact&show_icons=true&theme=ocean_dark"/>
+<a href="https://github.com/Ginizu/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/Ginizu/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ginizu&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a>
 </div>
 
 
