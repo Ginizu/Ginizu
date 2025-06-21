@@ -6,11 +6,10 @@
 <a href="https://github.com/Ginizu/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/Ginizu/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ginizu&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+<a href="https://github.com/Ginizu/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ginizu&layout=compact&show_icons=true&theme=dark" />
 </a>
 </div>
-
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
