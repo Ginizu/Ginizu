@@ -4,10 +4,10 @@
 
 <div>
 <a href="https://github.com/Ginizu/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Ginizu/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ginizu&layout=compact&show_icons=true&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ginizu&layout=compact&show_icons=true&theme=radical" />
 </a>
 </div>
 
