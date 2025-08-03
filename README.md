@@ -1,28 +1,53 @@
-### Olá, me chamo Giovanna! 👋
+<h1 align="center">Hey There!</h1>
 
-- 🌱 Sempre em frente. 
+###
 
-<div>
-<a href="https://github.com/Ginizu/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ginizu&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Ginizu/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ginizu&layout=compact&show_icons=true&theme=radical" />
-</a>
+<p align="left">🎓 Estudante de Sistemas de Informação | 💻 Desenvolvimento Web | 🌐 HTML | CSS | JavaScript | Java
+
+Bem-vindo(a) ao meu GitHub!  
+Aqui você encontrará projetos e experimentos práticos. Sou estudante de **Sistemas de Informação** na Universidade São Judas Tadeu, com previsão de formatura em 2026. Tenho grande interesse na área de **desenvolvimento de software**. Conheça os projetos que estou desenvolvendo e veja minha evolução como desenvolvedora: 
+
+👉 **[Acesse meu portfólio aqui]()** (Em construção 🚧)
+
+
+## 📫 Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gidiniz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="diniztorres.giovanna@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:diniztorres.giovanna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovannadiniz-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+###
+
+Acompanhe meus repositórios para ver minha evolução e meus projetos em construção! 🚧</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ginizu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ginizu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
- 
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ginizu.Ginizu&"  />
+</div>
