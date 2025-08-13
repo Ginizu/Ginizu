@@ -7,7 +7,7 @@
 Bem-vindo(a) ao meu GitHub!  
 Aqui você encontrará projetos e experimentos práticos. Sou estudante de **Sistemas de Informação** na Universidade São Judas Tadeu, com previsão de formatura em 2026. Tenho grande interesse na área de **desenvolvimento de software**. Conheça os projetos que estou desenvolvendo e veja minha evolução como desenvolvedora: 
 
-👉 **[Acesse meu portfólio aqui]()** (Em construção 🚧)
+👉 **[Acesse meu portfólio aqui](https://giovannadiniz.netlify.app)
 
 
 ## 📫 Contato
